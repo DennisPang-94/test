@@ -23,3 +23,4 @@ function getInteractiveMapDetails(&$variables)
   $variables['sites_in_progress'] = $sitesInProgress;
 }
 //test
+//another test

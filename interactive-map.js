@@ -1,3 +1,4 @@
+//testAgain
 function ZoomControl(controlDiv, map) {
   // Creating divs & styles for custom zoom control
   controlDiv.style.padding = '10px';

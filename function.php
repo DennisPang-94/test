@@ -22,3 +22,4 @@ function getInteractiveMapDetails(&$variables)
   $variables['spped_4g'] = $speed4g;
   $variables['sites_in_progress'] = $sitesInProgress;
 }
+//test
